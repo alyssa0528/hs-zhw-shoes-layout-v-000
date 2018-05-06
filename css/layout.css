@@ -33,7 +33,7 @@ section {
 
 /* For 2-column width: */
 .col-2 {
-  float; left;
+  float: left;
 }
 
 /* For 3-column (full) width: */
