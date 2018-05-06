@@ -22,9 +22,6 @@
   clear: both;
 }
 
-section {
-  margin: 2%;
-}
 /* Posititoning Classes */
 /* For 1-column width: */
 .col-1 {
@@ -41,6 +38,10 @@ section {
 /* For 3-column (full) width: */
 .col-3 {
 
+}
+
+[class*="col-"] {
+  margin: 2%;
 }
 
 footer {
