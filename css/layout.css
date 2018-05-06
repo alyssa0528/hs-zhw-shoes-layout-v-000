@@ -22,6 +22,21 @@
   clear: both;
 }
 
+section {
+  margin: 1%;
+}
 /* Posititoning Classes */
+/* For 1-column width: */
+.col-1 {
 
+}
 
+/* For 2-column width: */
+.col-2 {
+
+}
+
+/* For 3-column (full) width: */
+.col-3 {
+
+}
