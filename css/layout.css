@@ -48,6 +48,10 @@
   margin-left: 0%;
 }
 
+section {
+  margin-bottom: 20px;
+}
+
 footer {
   text-align: center;
 }
