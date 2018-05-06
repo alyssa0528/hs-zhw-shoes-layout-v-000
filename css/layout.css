@@ -23,19 +23,19 @@
 }
 
 section {
-  margin: 1%;
+  margin: 2%;
 }
 /* Posititoning Classes */
 /* For 1-column width: */
 .col-1 {
   float: left;
-  width: 31.333%;
+  width: 32%;
 }
 
 /* For 2-column width: */
 .col-2 {
   float: left;
-  width: 62.666%;
+  width: 64%;
 }
 
 /* For 3-column (full) width: */
